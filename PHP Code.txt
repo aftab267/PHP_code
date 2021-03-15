@@ -38,3 +38,9 @@ if ($x>30){
     echo "x is smaller";
 }
 ?>
+<?php
+function aftab($x,$y){
+	echo $z=$x*$y;
+}
+aftab(200,200);
+?>
